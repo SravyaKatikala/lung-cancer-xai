@@ -97,3 +97,13 @@ GitHub: [@SravyaKatikala](https://github.com/SravyaKatikala)
 **Janvitha Nerla**  
 GitHub: [@janvithanerla](https://github.com/janvithanerla)
 
+---
+
+## 🤝 Contributors
+
+Thanks to the following people who contributed to this project:
+
+| Avatar | Name | GitHub | Role |
+|--------|------|--------|------|
+| <img src="https://github.com/janvithanerla.png" width="50" height="50" style="border-radius:50%"> | Janvitha Nerla | [@janvithanerla](https://github.com/janvithanerla) | Data Analysis & Model Validation |
+
